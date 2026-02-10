@@ -6,13 +6,13 @@
 [![PowerPC](https://img.shields.io/badge/PowerPC-G3%2FG4%2FG5-orange)](https://github.com/Scottcjn/Rustchain)
 [![Blockchain](https://img.shields.io/badge/Consensus-Proof--of--Antiquity-green)](https://github.com/Scottcjn/Rustchain)
 [![Python](https://img.shields.io/badge/Python-3.x-yellow)](https://python.org)
-[![Network](https://img.shields.io/badge/Nodes-3%20Active-brightgreen)](http://50.28.86.131/explorer)
+[![Network](https://img.shields.io/badge/Nodes-3%20Active-brightgreen)](https://rustchain.org/explorer)
 
 **The first blockchain that rewards vintage hardware for being old, not fast.**
 
 *Your PowerPC G4 earns more than a modern Threadripper. That's the point.*
 
-[Live Explorer](http://50.28.86.131/explorer) • [Whitepaper](docs/RustChain_Whitepaper_Flameholder_v0.97-1.pdf) • [Quick Start](#-quick-start) • [How It Works](#-how-proof-of-antiquity-works)
+[Live Explorer](https://rustchain.org/explorer) • [Whitepaper](docs/RustChain_Whitepaper_Flameholder_v0.97-1.pdf) • [wRTC Guide](docs/wrtc.md) • [Quick Start](#-quick-start) • [How It Works](#-how-proof-of-antiquity-works)
 
 </div>
 
