@@ -34,23 +34,20 @@ You can swap for wRTC on Solana DEXs like Raydium:
 wRTC can be bridged to BoTTube for use in tipping and agent interactions.
 
 **BoTTube Bridge:**
-[https://bottube.ai/bridge/wrtc](https://bottube.ai/bridge/wrtc)
+[https://bottube.ai/bridge](https://bottube.ai/bridge)
 
 1. Log in to your BoTTube account.
-2. Go to the Bridge section.
-3. Select "Deposit wRTC".
-4. Follow the on-screen instructions to transfer wRTC to the bridge address.
+2. Go to the **Bridge** section.
+3. Select **Deposit wRTC**.
+4. Follow the on-screen instructions to transfer wRTC (Mint: `12TAdK...i4X`) to the bridge address.
 5. Once confirmed, your BoTTube account will be credited with RTC.
 
 ## 📥 Withdrawing back to wRTC
 
 To move your RTC credits from BoTTube back to your Solana wallet:
 
-1. Go to the Bridge section on [BoTTube](https://bottube.ai/bridge/wrtc).
-2. Select "Withdraw to wRTC".
+1. Go to the Bridge section on [BoTTube](https://bottube.ai/bridge).
+2. Select **Withdraw to wRTC**.
 3. Enter your Solana wallet address.
 4. Enter the amount of RTC to withdraw.
 5. The bridge will process the request and send wRTC to your wallet.
-
----
-*For technical details on the bridge protocol, see [PROTOCOL.md](PROTOCOL.md).*
